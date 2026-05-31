@@ -24,7 +24,7 @@ body, html {
 .tv-frame {
   position: relative;
   width: 100%;
-  aspect-ratio: 16 / 13;
+  aspect-ratio: 16 / 9;
   background: #000;
   border: 8px solid #080808;
   border-radius: 20px;
