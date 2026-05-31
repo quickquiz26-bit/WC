@@ -393,7 +393,7 @@ export default function App() {
             {/* 🖥️ The Main Live TV Outer Container Wrapper (Sticky top so it is fixed in view on scroll) */}
             <div className={isFloatingPip 
               ? "fixed bottom-6 right-6 w-[340px] sm:w-[420px] aspect-video z-50 rounded-xl overflow-hidden shadow-[0_20px_50px_rgba(0,0,0,0.85)] border border-white/20 bg-black animate-scaleIn transition-all duration-300"
-              : "tv-viewport w-full max-w-[600px] mx-auto relative sticky top-4 z-30 mb-6"
+              : "tv-viewport w-full max-w-[550px] mx-auto relative sticky top-4 z-30 mb-6"
             }>
               
               {/* Realtime + Historic Total View Badge */}
