@@ -3,7 +3,7 @@ import { useState } from 'react';
 const CHANNELS = [
   { name: 'SERVER 1', url: 'https://dadocric.st/player.php?id=willow&v=m' },
   { name: 'SERVER 2', url: 'https://dadocric.st/player.php?id=cricgo3' },
-  { name: 'SERVER 2', url: 'https://streamcrichd.com/update/willowcricket.php' },
+  { name: 'SERVER 3', url: 'https://streamcrichd.com/update/willowcricket.php' },
 ];
 
 const FB_URL = "/";
