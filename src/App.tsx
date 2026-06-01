@@ -454,7 +454,7 @@ export default function App() {
                       style={{
                         position: 'absolute',
                         top: '-38.5%',
-                        left: '380px',
+                        left: '80px',
                         right: '220%',
                         bottom: '0px',
                         width: '121.2%',
