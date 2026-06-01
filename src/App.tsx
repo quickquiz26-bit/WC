@@ -457,7 +457,7 @@ export default function App() {
                         left: '-455px',
                         right: '1%',
                         bottom: '1px',
-                        width: '2050%',
+                        width: '205%',
                         height: '150%',
                         border: 'none',
                       }}
