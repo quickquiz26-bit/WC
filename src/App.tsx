@@ -328,7 +328,7 @@ export default function App() {
             </div>
 
             {/* 🖥️ The Main Live TV Outer Container Wrapper */}
-            <div className="tv-viewport w-full max-w-[850px] mx-auto relative mb-6">
+            <div className="tv-viewport w-full max-w-[550px] mx-auto relative mb-6">
               
               {/* Realtime + Historic Total View Badge - Swapped position to top-left */}
               <div className="absolute top-4 left-4 bg-black/45 hover:bg-black/60 border border-white/15 text-zinc-350 px-3 py-1.5 rounded-lg text-[10px] font-mono tracking-wider uppercase z-20 flex items-center gap-1.5 shadow-[0_0_15px_rgba(0,0,0,0.2)] select-none">
