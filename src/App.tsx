@@ -458,7 +458,7 @@ export default function App() {
                         right: '1%',
                         bottom: '1px',
                         width: '240%',
-                        height: '110%',
+                        height: '70%',
                         border: 'none',
                       }}
                     />
