@@ -453,8 +453,8 @@ export default function App() {
                       referrerPolicy="no-referrer"
                       style={{
                         position: 'absolute',
-                        top: '-35%',
-                        left: '-441px',
+                        top: '-40%',
+                        left: '-421px',
                         right: '1%',
                         bottom: '1px',
                         width: '200%',
