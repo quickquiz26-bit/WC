@@ -1,0 +1,6 @@
+{
+  "name": "BDSTV",
+  "description": "Simulated high-performance desktop TV player interface for live cricket streams, featuring dual dark themes, real-time Gemini-powered alert translations, and desktop layout forcing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
