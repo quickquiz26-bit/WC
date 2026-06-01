@@ -29,7 +29,7 @@ import { Channel, Language, ThemeType, ThemeConfig } from './types';
 const CHANNELS: Channel[] = [
   { name: 'SERVER 1', url: 'https://dadocric.st/player.php?id=willow&v=m', id: 'srv-1' },
   { name: 'SERVER 2', url: 'https://dadocric.st/player.php?id=cricgo3', id: 'srv-2' },
-  { name: 'SERVER 3', url: 'https://streamcrichd.com/update/willowcricket.php', id: 'srv-3' },
+  { name: 'SERVER 3', url: 'http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8', id: 'srv-3' },
 ];
 
 const LANGUAGES: Language[] = [
