@@ -454,11 +454,11 @@ export default function App() {
                       style={{
                         position: 'absolute',
                         top: '-50.5%',
-                        left: '110px',
+                        left: '10px',
                         right: '-10%',
                         bottom: '0px',
-                        width: '50%',
-                        height: '1%',
+                        width: '150%',
+                        height: '150%',
                         border: 'none',
                       }}
                     />
