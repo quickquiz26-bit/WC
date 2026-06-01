@@ -282,7 +282,7 @@ export default function App() {
             <span className="relative inline-flex rounded-full h-2 w-2 bg-red-600"></span>
           </span>
           <Bell className="w-3.5 h-3.5 text-red-500 animate-bounce" />
-          <span className="text-[10px] font-black text-red-500 tracking-wider font-mono uppercase">LIVE ALERT</span>
+          <span className="text-[10px] font-black text-red-500 tracking-wider font-mono uppercase"></span>
         </div>
 
         {/* High visibility Marquee display with dynamic color cycle and reduced height */}
