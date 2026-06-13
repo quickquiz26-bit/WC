@@ -517,7 +517,7 @@ export default function App() {
                         <div className="text-sm font-bold text-zinc-100 flex items-center gap-1.5 truncate pr-2">
                           <span className={`inline-block w-2.5 h-2.5 rounded-full ${isActive ? 'bg-[#00ff00] animate-pulse' : 'bg-[#00ff00]/40'} shadow-[0_0_8px_rgba(0,255,0,0.5)]`} />
                           <span className="truncate">
-                            {ch.name === 'SERVER 1' ? 'ULTRA LOW LATENCY' : ch.name === 'SERVER 2' ? 'EUROPEAN SERVER' : ch.name === 'SERVER 3' ? 'ASIAN FEED 1080P' : ch.name}
+                            {ch.name === 'SERVER 1' ? 'Channel 1' : ch.name === 'SERVER 2' ? 'Channel 2' : ch.name === 'SERVER 3' ? 'Channel 3' : ch.name}
                           </span>
                         </div>
                       </div>
