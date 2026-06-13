@@ -438,7 +438,7 @@ export default function App() {
                         position: 'absolute',
                         top: 0,
                         left: 0,
-                        width: '100%',
+                        width: '80%',
                         height: '100%',
                         border: 'none',
                       }}
