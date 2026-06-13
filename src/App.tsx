@@ -401,7 +401,7 @@ export default function App() {
             <div className="w-full mb-4 px-4 py-2 border-l-4 border-yellow-500 bg-yellow-500/5 rounded-r-xl flex items-center justify-between text-[11px] font-mono text-yellow-500/80">
               <div className="flex items-center gap-2">
                 <CheckCircle className="w-4 h-4 text-yellow-500 animate-pulse" />
-                <span>ENVIRONMENT RESTRICTIONS BYPASS: <strong>FORCED DESKTOP AGENT SIMULATION ACTIVE</strong></span>
+                <span>Use Ads Blocker extension for better result: <strong>FORCED DESKTOP AGENT SIMULATION ACTIVE</strong></span>
               </div>
             </div>
 
