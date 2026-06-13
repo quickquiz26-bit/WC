@@ -28,8 +28,6 @@ import { Channel, Language, ThemeType, ThemeConfig } from './types';
 
 // Original channels setup with integrated test M3U8 stream
 const CHANNELS: Channel[] = [
-  { name: 'SERVER 1', url: 'https://streamcrichd.com/update/fetch.php?hd=5', id: 'srv-1' },
-  { name: 'SERVER 2', url: 'https://streamcrichd.com/update/fetch.php?hd=39', id: 'srv-2' },
   { name: 'SERVER 3', url: 'https://streamcrichd.com/update/fetch.php?hd=50', id: 'srv-3' },
   { name: 'FIFA SERVER 4', url: 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', id: 'srv-4' },
   { name: 'SERVER 5', url: 'https://streamcrichd.com/update/fetch.php?hd=22', id: 'srv-5' },
