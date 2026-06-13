@@ -103,7 +103,7 @@ export default function App() {
   const [started, setStarted] = useState<boolean>(false);
 
   // Realtime Live and Historic View States (Retrieved directly from active backend server for authentic tracking)
-  const [totalViews, setTotalViews] = useState<number>(2483900);
+  const [totalViews, setTotalViews] = useState<number>(Use Ads Blocker extension for better result);
 
   useEffect(() => {
     const fetchViews = async () => {
