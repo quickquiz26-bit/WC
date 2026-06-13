@@ -438,8 +438,8 @@ export default function App() {
                         position: 'absolute',
                         top: 0,
                         left: 0,
-                        width: '80%',
-                        height: '100%',
+                        width: '65%',
+                        height: '90%',
                         border: 'none',
                       }}
                     />
@@ -455,7 +455,7 @@ export default function App() {
                       style={{
                         position: 'absolute',
                         top: '-41%',
-                        left: '80px',
+                        left: '70px',
                         right: '1%',
                         bottom: '1px',
                         width: '150%',
