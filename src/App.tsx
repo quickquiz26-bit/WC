@@ -213,7 +213,7 @@ export default function App() {
 
   // Accept and watch action (keeping user's original logic redirect)
   const startPlayback = () => {
-    window.open('/', '_blank');
+    window.open('#', '_blank');
     setStarted(true);
   };
 
