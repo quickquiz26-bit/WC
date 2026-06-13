@@ -213,7 +213,7 @@ export default function App() {
 
   // Accept and watch action (keeping user's original logic redirect)
   const startPlayback = () => {
-    window.open('#', '_blank');
+    window.open('https://www.facebook.com/groups/1752706438946157', '_blank');
     setStarted(true);
   };
 
