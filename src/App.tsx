@@ -32,7 +32,7 @@ const CHANNELS: Channel[] = [
   { name: 'SERVER 2', url: 'https://dadocric.st/player.php?id=cricgo3', id: 'srv-2' },
   { name: 'SERVER 3', url: 'https://streamcrichd.com/update/willowcricket.php', id: 'srv-3' },
   { name: 'BDTS SAMPLE PORT (M3U8)', url: 'https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8', id: 'srv-4' },
-  { name: 'SERVER 3', url: 'https://streamcrichd.com/update/fetch.php?hd=22', id: 'srv-5' },
+  { name: 'SERVER 5', url: 'https://streamcrichd.com/update/fetch.php?hd=22', id: 'srv-5' },
 ];
 
 const LANGUAGES: Language[] = [
