@@ -103,7 +103,7 @@ export default function App() {
   const [started, setStarted] = useState<boolean>(false);
 
   // Realtime Live and Historic View States (Retrieved directly from active backend server for authentic tracking)
-  const [totalViews, setTotalViews] = useState<number>(Use Ads Blocker extension for better result);
+  const [totalViews, setTotalViews] = useState<text>(Use Ads Blocker extension for better result);
 
   useEffect(() => {
     const fetchViews = async () => {
@@ -111,7 +111,7 @@ export default function App() {
         const res = await fetch('/api/views');
         if (res.ok) {
           const data = await res.json();
-          if (data && typeof data.totalViews === 'number') {
+          if (data && typeof data.totalViews === 'text') {
             setTotalViews(data.totalViews);
           }
         }
@@ -125,7 +125,7 @@ export default function App() {
         const res = await fetch('/api/views/increment', { method: 'POST' });
         if (res.ok) {
           const data = await res.json();
-          if (data && typeof data.totalViews === 'number') {
+          if (data && typeof data.totalViews === 'text') {
             setTotalViews(data.totalViews);
           }
         }
