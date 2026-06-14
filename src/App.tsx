@@ -332,11 +332,11 @@ export default function App() {
               </div>
               <div className="flex justify-between items-center text-zinc-500">
                 <span>[INFO] Rendering viewport:</span>
-                <span className="text-zinc-400">Widescreen 1200px</span>
+                <span className="text-zinc-400">Widescreen</span>
               </div>
               <div className="flex justify-between items-center text-red-400">
                 <span>STATUS:</span>
-                <span className="animate-pulse">Loading Live TV Sandbox...</span>
+                <span className="animate-pulse">Loading</span>
               </div>
             </div>
 
@@ -406,7 +406,7 @@ export default function App() {
             </div>
 
             {/* 🖥️ The Main Live TV Outer Container Wrapper */}
-            <div className="tv-viewport w-full max-w-[750px] mx-auto relative mb-6">
+            <div className="tv-viewport w-full max-w-[650px] mx-auto relative mb-6">
               
               {/* Realtime + Historic Total View Badge - Swapped position to top-left */}
               <div className="absolute top-4 left-4 bg-black/45 hover:bg-black/60 border border-white/15 text-zinc-350 px-3 py-1.5 rounded-lg text-[10px] font-mono tracking-wider uppercase z-20 flex items-center gap-1.5 shadow-[0_0_15px_rgba(0,0,0,0.2)] select-none">
